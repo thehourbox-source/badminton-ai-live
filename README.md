@@ -10,4 +10,4 @@ tournament's matches, results and standings in a browser, without the app.
   server address and its public (publishable) key, the same ones built into the app.
 
 This repository contains only the built page. The source is `web/viewer` in the private
-BadmintonAI repository (built from 92687e7); rebuild there and copy `dist/` here to update.
+BadmintonAI repository (built from f273150); rebuild there and copy `dist/` here to update.
